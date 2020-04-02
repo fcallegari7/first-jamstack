@@ -17,10 +17,12 @@ h1 {
 }
 
 #code-link {
-    position: absolute;
+    background-color: rgba(255,255,255,0.7);
+    position: fixed;
     text-align: center;
     left: 0;
     right: 0;
     bottom: 10px;
-    margin: auto;
+    padding: 10px;
+    margin: auto auto -10px auto;
 }
